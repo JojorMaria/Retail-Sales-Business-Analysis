@@ -21,3 +21,17 @@ The project uses Python for data exploration and preparation, SQL for business a
 - **TiDB Cloud:** Cloud database.
 - **Power BI:** Interactive dashboard and visualization.
 - **Jupyter Notebook:** Python analysis environment.
+
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](images/executive_overview.png)
+
+### 2. Product Analysis
+![Product Analysis](images/product_analysis.png)
+
+### 3. Customer & Regional Analysis
+![Customer & Regional Analysis](images/customer_regional.png)
+
+### 4. Data Detail
+![Data Detail](images/data_detail.png)
