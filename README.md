@@ -25,13 +25,13 @@ The project uses Python for data exploration and preparation, SQL for business a
 ## Dashboard Preview
 
 ### 1. Executive Overview
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](images/executive_overview.jpeg)
 
 ### 2. Product Analysis
-![Product Analysis](images/product_analysis.png)
+![Product Analysis](images/product_analysis.jpeg)
 
 ### 3. Customer & Regional Analysis
-![Customer & Regional Analysis](images/customer_regional.png)
+![Customer & Regional Analysis](images/customer_regional.jpeg)
 
 ### 4. Data Detail
-![Data Detail](images/data_detail.png)
+![Data Detail](images/data_detail.jpeg)
